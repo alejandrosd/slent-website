@@ -17,7 +17,7 @@ import {
     Subtitle, 
     BtnWrap,
     ImgWrap,
-    Img //,Button
+    // Img //,Button
 } from './InfoElements'
 
 const SimulationSection = ({lightBg, id, imgStart, topLine, lightText, headline, darkText,
